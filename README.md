@@ -13,6 +13,9 @@ works with
 <img src="https://github.com/Yuweh/SideMenu-Sample/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-05-05%20at%2019.49.27.png" width="400"> 
 
 
+Next Update:
+Just change upper section to white XD
+- Will now be applied to our main project XD
 
 ------
 
@@ -21,3 +24,4 @@ works with
 -----
 
 Referrence:https://medium.com/yay-its-erica/making-a-hamburger-slide-out-menu-in-swift-3-ef5249b6693e
+her Github Repo: https://github.com/yayitserica/Hamburger-Menu-Blog
