@@ -1,5 +1,5 @@
 # SideMenu-Sample
-Needed Component in any social media app :D
+Needed Component on any social media app :D
 
 works with
 [![IDE](https://img.shields.io/badge/Xcode-9-blue.svg)](https://developer.apple.com/xcode/)
@@ -10,7 +10,8 @@ works with
 
 ## Finished App
 
-Still on the works XD
+<img src="https://github.com/Yuweh/SideMenu-Sample/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-05-05%20at%2019.49.27.png" width="400"> 
+
 
 
 ------
